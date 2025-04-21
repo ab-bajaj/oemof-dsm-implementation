@@ -1,0 +1,9 @@
+index;Units;PV_rt;PV_gm;Wind
+CAPEX;€/kW;800;666;1055
+OPEX;%*CAPEX/a;3,1;3,1;1,84
+Payback_period;a;25;25;25
+EE_Faktor;-;-1;-1;-1
+Potential_Nordhausen_Nord;kW;1120000;4070000;1210000
+Potential_Erfurt_Mitte;MW;1610;5920;1640
+Potential_Gera_Ost;MW;1680;4740;1820
+Potential_Hildburghausen_Südwest;MW;1260;2680;900
